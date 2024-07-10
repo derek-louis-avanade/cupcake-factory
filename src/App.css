@@ -41,7 +41,7 @@
 }
 
 .cupcake {
-  max-width: 2vw;
+  max-width: 25px;
   position: fixed;
   animation: spawn-cupcake 0.2s linear;
 }
